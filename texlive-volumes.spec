@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-volumes
 Version:	1.0
-Release:	5
+Release:	6
 Summary:	Typeset only parts of a document, with complete indexes etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/volumes

@@ -1,6 +1,6 @@
 Name:		texlive-volumes
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Typeset only parts of a document, with complete indexes etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/volumes

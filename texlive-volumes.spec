@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset only parts of a document, with complete indexes etc
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/volumes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/volumes
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/volumes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/volumes.doc.r%{version}.tar.xz
